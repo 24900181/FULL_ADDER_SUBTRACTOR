@@ -57,6 +57,7 @@ FULL SUBTRACTOR :
 
 Developed by: RegisterNumber:NETHRA.K(212224230184)*/
 
+~~~ 
  exp4a-full adder
 
  *module exp4a(sum, cout, a, b, cin);*
@@ -94,6 +95,7 @@ Exp4b-full subtractor
 
 endmodule
 
+~~~
 
 
 **RTL Schematic:**
